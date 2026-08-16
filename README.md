@@ -83,7 +83,10 @@ This mini project explores sales data using Microsoft Excel. The analysis covers
 
 ---
 
+## 👩‍💻 Author
+Ayesha Batool
+
 # 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](mailto:ayeshabatool160@gmail.com)
+- [Email](mailto:ayesha.batool.career@gmail.com)
